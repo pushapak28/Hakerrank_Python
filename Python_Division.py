@@ -1,4 +1,5 @@
 #Python: Division
+"""
 Task
 The provided code stub reads two integers,  and , from STDIN.
 
@@ -32,7 +33,7 @@ Sample Output 0
 
 1
 1.33333333333
-
+"""
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
